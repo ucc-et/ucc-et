@@ -1,4 +1,4 @@
-ame: snake
+name: snake
 on:
   schedule:
     - cron: "0 */12 * * *"   # twice a day
