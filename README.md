@@ -1,3 +1,5 @@
+![snake](https://raw.githubusercontent.com/ucc-et/ucc-et/output/snake.svg)
+
 <p align="center">
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
